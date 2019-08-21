@@ -1,2 +1,1 @@
-# neuron_2019
-# neuron_2019
+Code and data for derivation of network-based predictors
